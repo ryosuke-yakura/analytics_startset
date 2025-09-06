@@ -1,1 +1,2 @@
 # analytics_startset
+データ分析時の環境構築
